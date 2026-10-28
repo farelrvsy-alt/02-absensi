@@ -160,8 +160,9 @@ void tampilkanRekap() {
 void tampilkanPersentase() {
   // TODO: persentase = jumlah hadir / jumlah pertemuan x 100.
   // Tampilkan 1 angka di belakang koma.
-print('Fitur belum tersedia.');
+  print('Fitur belum tersedia.');
 }
+
 /// Menu 9 [Sulit]: menampilkan mahasiswa dengan kehadiran di bawah batas.
 void tampilkanDiBawahBatas() {
   // TODO: tampilkan mahasiswa yang persentase kehadirannya < batasKehadiran
